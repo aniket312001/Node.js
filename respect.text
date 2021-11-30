@@ -1,0 +1,9 @@
+console.log("new file")
+
+
+function respect(name){
+    console.log(name + " good morning");
+}
+
+respect("Aniket");
+respect("Sam");
