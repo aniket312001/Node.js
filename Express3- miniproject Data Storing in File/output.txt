@@ -1,0 +1,6 @@
+The name is rutz, age is 22, gender is female is from pune 
+
+The name is Aniket , age is 32, gender is male is from pune 
+
+The name is zero, age is 0, gender is male is from mumbai 
+
